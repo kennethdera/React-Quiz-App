@@ -1,0 +1,42 @@
+[
+    {
+        "question": "What is question 1",
+        "optionA": "Option A",
+        "optionB": "Option B",
+        "optionC": "Option C",
+        "optionD": "Option D",
+        "answer": "Option A"
+    },
+    {
+        "question": "What is question 2",
+        "optionA": "Option A",
+        "optionB": "Option B",
+        "optionC": "Option C",
+        "optionD": "Option D",
+        "answer": "Option B"
+    },
+    {
+        "question": "What is question 3",
+        "optionA": "Option A",
+        "optionB": "Option B",
+        "optionC": "Option C",
+        "optionD": "Option D",
+        "answer": "Option C"
+    },
+    {
+        "question": "What is question 4",
+        "optionA": "Option A",
+        "optionB": "Option B",
+        "optionC": "Option C",
+        "optionD": "Option D",
+        "answer": "Option D"
+    },
+    {
+        "question": "What is question 5",
+        "optionA": "Option E",
+        "optionB": "Option B",
+        "optionC": "Option C",
+        "optionD": "Option D",
+        "answer": "Option E"
+    }
+]
